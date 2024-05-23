@@ -218,7 +218,7 @@ body{
             border-radius: 4pk;
             margin-block: 1rem;
             min-height: 25vh;
-            width: 400px;
+           min-width: 400px;
          }
     }
 }
